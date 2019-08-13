@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/first-redux/static/css/main.2cce8147.chunk.css",
+    "main.js": "/first-redux/static/js/main.c2fe2e00.chunk.js",
+    "main.js.map": "/first-redux/static/js/main.c2fe2e00.chunk.js.map",
+    "runtime~main.js": "/first-redux/static/js/runtime~main.5a84993c.js",
+    "runtime~main.js.map": "/first-redux/static/js/runtime~main.5a84993c.js.map",
+    "static/js/2.3a05a169.chunk.js": "/first-redux/static/js/2.3a05a169.chunk.js",
+    "static/js/2.3a05a169.chunk.js.map": "/first-redux/static/js/2.3a05a169.chunk.js.map",
+    "index.html": "/first-redux/index.html",
+    "precache-manifest.4bcddcba5343b9f0e7785e24dbc04cdd.js": "/first-redux/precache-manifest.4bcddcba5343b9f0e7785e24dbc04cdd.js",
+    "service-worker.js": "/first-redux/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/first-redux/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/first-redux/static/media/logo.5d5d9eef.svg"
+  }
+}
